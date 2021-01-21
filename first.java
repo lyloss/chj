@@ -8,5 +8,5 @@ public class first {
 
 class Person {
   String name;
-  String address;
+  String lady;
 }
