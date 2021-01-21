@@ -8,5 +8,5 @@ public class first {
 
 class Person {
   String name;
-  int age;
+  String gender;
 }
